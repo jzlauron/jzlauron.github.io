@@ -16,7 +16,9 @@ const typed = new Typed(".animate", {
       'https://github.com/jzlauron/Minesweeper',
       'https://github.com/jzlauron/Multi-color-',
       'https://github.com/jzlauron/ASP-sample-programs',
-      'https://github.com/jzlauron/Commando'
+      'https://github.com/jzlauron/Commando',
+      'https://github.com/jzlauron/trackersystemz',
+      'https://github.com/jzlauron/TrackerzUsers'
       
     ];
   var arrayLink =
