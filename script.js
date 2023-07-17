@@ -1,7 +1,7 @@
 //code for typed animation
 
 const typed = new Typed(".animate", {
-    strings: ["CNT graduate.","developer."],
+    strings: ["Computer Engineer","developer."],
     typeSpeed: 50,
     backSpeed: 50,
     loop: true,
